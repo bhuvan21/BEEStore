@@ -1,2 +1,5 @@
 <?xml version="1.0">
-<app name="testapp" uid="000" url="https://github.com/bhuvan21/BEE-testapp.git">
+<app name="testapp" uid="000" cloneurl="https://github.com/bhuvan21/BEE-testapp.git"
+ iconurl="https://github.com/bhuvan21/BEE-testapp/blob/master/testicon.png"
+ description="This app is purely for testing. No other functionality."
+releasedate="20/12/18">
