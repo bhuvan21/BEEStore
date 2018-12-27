@@ -7,5 +7,6 @@
         <iconurl>https://raw.githubusercontent.com/bhuvan21/BEE-testapp/master/testicon.png</iconurl>
         <description>This app is purely for testing. No other functionality.</description>
         <releasedate>20/12/18</releasedate>>
+        <author>bhuvan21</author>
     </app>
 </apps>
