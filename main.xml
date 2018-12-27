@@ -4,7 +4,7 @@
         <name>testapp</name> 
         <uid>000</uid> 
         <cloneurl>https://github.com/bhuvan21/BEE-testapp.git</cloneurl>
-        <iconurl>https://rawgit.com/bhuvan21/BEEStore/master/main.xml</iconurl>
+        <iconurl>https://raw.githubusercontent.com/bhuvan21/BEE-testapp/master/testicon.png</iconurl>
         <description>This app is purely for testing. No other functionality.</description>
         <releasedate>20/12/18</releasedate>>
     </app>
