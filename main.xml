@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <apps>
     <app> 
-        <name>testapp</name> 
+        <name>testapp</name>
+        <reponame>BEE-testap<reponame>
         <uid>000</uid> 
         <cloneurl>https://github.com/bhuvan21/BEE-testapp.git</cloneurl>
         <iconurl>https://raw.githubusercontent.com/bhuvan21/BEE-testapp/master/testicon.png</iconurl>
